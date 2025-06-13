@@ -1,6 +1,6 @@
+package day17_loops;
+
 import java.util.Scanner;
-
-
 
 /*
     create a program to guess the secret number.
@@ -44,7 +44,7 @@ public class GuessNumber {
         } while (userGuess != secretNum);
 
 
-        // TODO: in this come implete it to only allow user to guess 4 times
+        // TODO: in this code implete it to only allow user to guess 4 times
         // HINT: check ATM task
     }
 }
